@@ -1,1 +1,1 @@
-# Cybertron is a codebase of Transformer. You can make your transformer model for your dataset by config file base on it. Cybertron reference to MMDetection and Huggingface. So let me salute them.
+# Cybertron is a codebase of Transformer. You can make your transformer model for your dataset by config file base on it. Cybertron can easy to build multi-task and multi-modality architecture. Cybertron reference to MMDetection and Huggingface. So let me salute them.
